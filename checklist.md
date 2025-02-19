@@ -59,43 +59,43 @@ _The slide valve, simply explained._ by Tennant, William J.
   * How the editor laid out special sections such as tables and sidebars.
 
 ### Check balanced markup
-* [ ] `Tools → Unmatched → DP Markup...`
+* [x] `Tools → Unmatched → DP Markup...`
   * whiSearches for the regular expression `\<(\w+)>\n?[^<]+<(?!/\1>)`, that is any markup starting in `<..>` that doesn't end in an identical closing markup.
   * Note: this regular expression sees `<tb>` as unbalanced, and shows the text from the `<tb>` to the next markup as an error. (If you can devise a better regex please do!)
   * Possible alternate that explicitly lists all current markup `\<(i|b|sc|g||f|u)>\n?[^<]+<(?!/\1>)`
   * Because it includes a newline, the search may take several seconds to return the first result.
-  * [ ] Correct any errors and click search until no more are found.
+  * [x] Correct any errors and click search until no more are found.
 
-* [ ] `Tools → Unmatched → Block Markup...`
-  * [ ] Correct any errors and click search until no more are found.
+* [x] `Tools → Unmatched → Block Markup...`
+  * [x] Correct any errors and click search until no more are found.
 
 ### Check Formatting
 * Proper spacing for chapters and paragraphs:
-  * [ ] Before chapter start: 4 blank lines
-  * [ ] Between chapter head and subhead: 1 blank line
-  * [ ] Between head (or subhead) and chapter body: 2 blank lines
-  * [ ] Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
-  * [ ] Each overall block should have blank lines before & after
+  * [x] Before chapter start: 4 blank lines
+  * [x] Between chapter head and subhead: 1 blank line
+  * [x] Between head (or subhead) and chapter body: 2 blank lines
+  * [x] Pages should **not** start with a blank line unless starting a new chapter, section, or paragraph.
+  * [x] Each overall block should have blank lines before & after
 
-* [ ] Proper markup of `<i>italic</i>` and `<b>bold</b>`
+* [x] Proper markup of `<i>italic</i>` and `<b>bold</b>`
   * Watch for punctuation wrongly contained in markup, such as `<i>(ibid.</i>` or `<b>Subtopic.</b>`.
 
 * Proper markup of foreign languages:
-  * [ ] Greek and other transliterations
+  * [x] Greek and other transliterations
 
 * Proper markup of all block material:
-  * [ ] Poetry, misc. tabular in `/* */`
-  * [ ] Block quotes in `/# #/`
+  * [x] Poetry, misc. tabular in `/* */`
+  * [x] Block quotes in `/# #/`
 
 * Proper markup of illustrations:
-  * [ ] Figures properly marked as `[Illustration: caption]`
-  * [ ] For captionless (`[Illustration: ]`), remove colon & whitespace
-  * [ ] Caption text agrees with List of Illustrations (if any)
-  * [ ] Consistent spelling, abbreviation, capitalization in captions
+  * [x] Figures properly marked as `[Illustration: caption]`
+  * [x] For captionless (`[Illustration: ]`), remove colon & whitespace
+  * [x] Caption text agrees with List of Illustrations (if any)
+  * [x] Consistent spelling, abbreviation, capitalization in captions
 
-* [ ] Search `(</i>)([!?;:])` & replace `\2\1` to find punct that should move inside quotes
+* [x] Search `(</i>)([!?;:])` & replace `\2\1` to find punct that should move inside quotes
 
-* [ ] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
+* [x] Look for malformed thought-breaks (5 stars). Regex: `\*\s*\*\s*\*\s*\*\s*\*`
 
 ## Preliminary Fixup
 

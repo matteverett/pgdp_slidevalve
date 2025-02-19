@@ -15,6 +15,25 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] Extensive cross-references to figures
+* [ ] i_p18.jpg: Fig. 10.--No caption.
+* [ ] i_p29.jpg: Fig. 14.--No caption.
+* [ ] i_p31.jpg: Fig. 15.--No caption.
+* [ ] i_p33.jpg: Fig. 16.--No caption.
+* [ ] i_p36.jpg: Fig. 18.--No caption.
+* [ ] i_p37.jpg: Fig. 19.--No caption.
+* [ ] i_p38.jpg: Fig. 20.--No caption.
+* [ ] i_p40.jpg: Fig. 21.--No caption.
+* [ ] i_p41.jpg: Fig. 22.--No caption.
+* [ ] i_p52.jpg: Fig. 29.--No caption.
+* [ ] i_p54.jpg: Fig. 30.--No caption.
+* [ ] i_p59.jpg: Fig. 32.--No caption.
+* [ ] i_p62.jpg: Fig. 33.--No caption.
+* [ ] i_p68.jpg: Fig. 34.--No caption.
+* [ ] i_p69.jpg: Fig. 35.--No caption.
+* [ ] i_p70.jpg: Fig. 36.--No caption.
+* [ ] i_p71.jpg: Fig. 37.--No caption.
+* [ ] i_p78.jpg: Fig. 40.--No caption.
+* [ ] i_p82.jpg: Fig. 41.--No caption.
 
 ### Project manager notes ###
 
