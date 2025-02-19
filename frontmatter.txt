@@ -1,0 +1,51 @@
+// ppgen source for The slide valve, simply explained.
+// ppgen ver 3.57e
+
+// Set title
+.dt The slide valve, simply explained. | Project Gutenberg
+
+// Set line length
+.ll 72
+
+// Define CSS
+.de .tnbox { border:1px solid silver; padding: 0.5em; margin:2em 10% 0 10%; }
+
+// Define macros
+.dm chapter-break
+.sp 4
+.dm-
+
+.dm section-break
+.sp 2
+.dm-
+
+.dm new-page $1
+.bn $1.png
+.pn +1
+.dm-
+
+.dm new-page-break $1
+.pb
+.pm new-page $1
+.dm-
+
+.dm verse-start
+.in +4
+.nf b
+.dm-
+
+.dm verse-end
+.nf-
+.in -4
+.dm-
+
+// Page numbering
+.pn off // turn off visible page numbers
+.pn link
+
+// Paragraph formatting, indent paragraphs by 0.75 em.
+.pi
+.nr psi 0.75em
+
+.bn 001.png
+.pn 1

@@ -1,0 +1,11 @@
+guiguts.log
+*-utf8.txt
+*.html
+*.bin
+*.txt.json
+/output/
+/gimp/
+/zipdir/
+/ebooks/
+/.vscode/
+.DS_Store
