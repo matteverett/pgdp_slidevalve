@@ -15,11 +15,11 @@ _The slide valve, simply explained._ by Tennant, William J.
 ## Project Setup
 
 ### Create Project
-* [ ] Choose a project name
+* [x] Choose a project name
   * Choose a short, simple project name, e.g. `pascal` for “*The Provincial Letters of Blaise Pascal*”
   * Should be simple, no spaces, lowercase, e.g. "missfairfax" was used for "Miss Fairfax of Virginia".
   * This is used by scripts and to name the GitHub repo, so use it consistently.
-* [ ] Run the setup script
+* [x] Run the setup script
   * ```shell
     cd ~/dp/util
     . venv/bin/activate
@@ -28,33 +28,33 @@ _The slide valve, simply explained._ by Tennant, William J.
   * Setup script fetches the project resources and creates the Github repository
 
 ### Review Project Details
-* [ ] Read the project comments
-* [ ] Subscribe to the project forum
-* [ ] Read all forum posts
+* [x] Read the project comments
+* [x] Subscribe to the project forum
+* [x] Read all forum posts
 
 ### Setup Guiguts
-* [ ] Open `slidevalve-src.txt` in Guiguts
-* [ ] Configure page labels
+* [x] Open `slidevalve-src.txt` in Guiguts
+* [x] Configure page labels
   * `File → Project → Configure Page Labels...`
-* [ ] Check for roman numerals and unnumbered pages
-* [ ] Go to end of book to check page numbers line up
+* [x] Check for roman numerals and unnumbered pages
+* [x] Go to end of book to check page numbers line up
 
 ### Open Images  
-* [ ] Open images in Pixea: `open -a Pixea pngs`
+* [x] Open images in Pixea: `open -a Pixea pngs`
 
 ## Preliminary Review
 
 ### Illustrations
-* [ ] Note illustrations in `README.md`
-* [ ] Move illustrations to `illustrations/` folder
+* [x] Note illustrations in `README.md`
+* [x] Move illustrations to `illustrations/` folder
 
 ### Languages
-* [ ] Note languages other than the main book language in `README.md`
+* [x] Note languages other than the main book language in `README.md`
   * In HTML they can be labeled with `<span lang="fr">..</span>`
   * If they're in italic print, that's handled later during italic handling
 
 ### HTML Notes
-* [ ] Note things that will need attention in the HTML in `README.md`, for example:
+* [x] Note things that will need attention in the HTML in `README.md`, for example:
   * Author cross-references like "`(p. 150)`" and "`see page 222`" that should become links.
   * How the editor laid out special sections such as tables and sidebars.
 
@@ -286,6 +286,44 @@ _The slide valve, simply explained._ by Tennant, William J.
 ### Validation
 * [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
 * [ ] Run text checks at [pptools](https://pptools.tangledhelix.com)
+
+## Create Ppgen File
+
+### Add Front Matter
+* [ ] Add `frontmatter.txt` to the start of the file.
+
+### Join page boundaries
+* [ ] Replace page boundaries with `.pm new-page`
+  * Search Regex: `-----File: (\d\d\d).png---------------------------------------------------------`
+  * Replace with: `.pm new-page-break $1`
+
+### Insert Breaks
+* [ ] Insert chapter and section breaks as appropriate
+* [ ] Convert `.pm new-page` to `.pm new-page-break` as appropriate
+
+### Illustrations
+* [ ] Fixup illustrations:
+  * [ ] Illustration #1
+  * [ ] Illustration #2
+  * [ ] etc.
+
+### Front Matter
+* [ ] Adjust front matter font sizes:
+  * `.h1`: 1.4 em
+  * `.h2`: 1.2 em
+  * `.h3`: 1.2 em
+
+### Generate HTML and Txt Files
+* [ ] Run ppgen on `{{project}}-src.txt`
+  * `python3.11 ~/pgdp/ppgen/ppgen.py -i {{project}}-src.txt`
+
+### Run PP Toolbox:
+`https://www.pgdp.net/ppwb/`
+* [ ] pptext
+* [ ] pphtml
+* [ ] W3C HTML markup validator
+* [ ] W3C CSS validator
+* [ ] Gutenberg online bookmaker
 
 ## References
 ### Post-Processing
