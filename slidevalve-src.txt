@@ -68,9 +68,9 @@ also, in some degree, <i>quantitative</i>, to enable
 him to institute comparisons between the
 actions of different valves operated under varying
 conditions. With this end in view, the
-writer conceived the idea of using on a base-*
+writer conceived the idea of using on a base-board
 -----File: f04.png---------------------------------------------------------
-*board a rotary disc to represent a crank-shaft,
+a rotary disc to represent a crank-shaft,
 together with the idea of obtaining concentric
 circular diagrams of results (see fig. 21, for instance)
 by using a crank-arm marked on the
@@ -119,7 +119,6 @@ have a special interest to students of the locomotive.
 W. J. T.
 */
 -----File: f06.png---------------------------------------------------------
-[Blank Page]
 -----File: f07.png---------------------------------------------------------
 
 
@@ -185,7 +184,6 @@ CHAPTER IX.
 Gears in general</sc>,        73
 */
 -----File: f08.png---------------------------------------------------------
-[Blank Page]
 -----File: p01.png---------------------------------------------------------
 
 
@@ -571,9 +569,9 @@ latter in the centre of its travel and mark the
 arrow-head just above the "0" on the No. 1
 scale. When the disc is turned, the end of
 the eccentric-arm or valve-crank travels with
-it around the circular scale. When the eccen-*
+it around the circular scale. When the eccentric-arm
 -----File: p19.png---------------------------------------------------------
-*tric-arm is moved step by step around the
+is moved step by step around the
 circle to the various numbered graduations, the
 valve must be moved step by step to bring its
 arrow-head to the corresponding numbers on
@@ -1494,9 +1492,9 @@ but admission, of course, excepted. <i>The idea
 may, perhaps, be more easily grasped by keeping
 the eccentric and valve in view at an unaltering
 standard of reference, and when it is
-desired to consider the effect of advancing the</i>
+desired to consider the effect of advancing the
 -----File: p60.png---------------------------------------------------------
-<i>eccentric, to imagine instead that it is the setting
+eccentric, to imagine instead that it is the setting
 of the main crank which is altered</i>--which
 in effect is the same thing, and is, perhaps,
 easier to reason out.
@@ -1711,11 +1709,11 @@ to "mid-gear"), and we get in effect:--
                   {    rods.
 */
 
-Take the case of a partially linked-up mo-*
+Take the case of a partially linked-up motion
 -----File: p68.png---------------------------------------------------------
 *[Illustration: <sc>Fig. 34.</sc>]
 
-*tion with open rods; we shall find that because
+with open rods; we shall find that because
 the throw of the eccentric is lessened, the
 travel of the valve to the right and left of its
 central position will be diminished, and the
@@ -1814,9 +1812,9 @@ and compression are timed by the edges of the
 central exhaust cavity; lead is given by the
 "lap-edges," but cut-off is controlled by movement
 of the cut-off plates on the back of the
-moving main valve, so that though a "lap-*
+moving main valve, so that though a "lap-edge"
 -----File: p75.png---------------------------------------------------------
-*edge" may not at any time have closed one of
+may not at any time have closed one of
 the steam-ports proper, a cut-off plate worked
 by a separate eccentric can close the appropriate
 steam-conduit above referred to, and so
@@ -1878,9 +1876,9 @@ with the subject of early cut-offs the Trick or
 Allen valve may be mentioned. It is made
 with a passage-way through the back of the
 valve, as shown in fig. 40, adapted to deliver
-an extra supply of steam into the port by ren-*
+an extra supply of steam into the port by rendering
 -----File: p78.png---------------------------------------------------------
-*dering available an additional proportion of
+available an additional proportion of
 the area thereof, when the narrow port-opening
 given by the lap-edge alone, during
 linked-up working, is found to wire-draw the
@@ -1931,9 +1929,9 @@ intently as we may, with nothing else visible
 we shall be unable to tell that the engine has
 been reversed. The valve is doing now exactly
 what it did before, performing its operations
-in the same order. Why have we had to em-*
+in the same order. Why have we had to employ
 -----File: p80.png---------------------------------------------------------
-*ploy reversing gear? Solely because--when
+reversing gear? Solely because--when
 the engine ceases to run <i>ahead</i> for instance,
 stopping at half-stroke the piston and valve
 will be in a certain position, and will have been

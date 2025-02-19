@@ -104,7 +104,7 @@ _The slide valve, simply explained._ by Tennant, William J.
 * [x] Correct entries as appropriate
 
 ### Fix Block Markups 
-* [ ] Use the `Search` menu to step through all `/* */` blocks.
+* [x] Use the `Search` menu to step through all `/* */` blocks.
   * Regex: `^(/\*|\*/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -112,7 +112,7 @@ _The slide valve, simply explained._ by Tennant, William J.
   * Apply specific [indent value](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent) if desired
   * Make sure poetry line numbers are at least two spaces to the right of the line.
 
-* [ ] Use the `Search` menu to step through all `/#..#/` blocks.
+* [x] Use the `Search` menu to step through all `/#..#/` blocks.
   * Regex: `^(/#|#/)`
   * Check for a blank line before and after markup
   * Make sure correct [Rewrap Markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) are used
@@ -121,11 +121,11 @@ _The slide valve, simply explained._ by Tennant, William J.
   * Apply specific [margin values](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins) if desired
 
 ### Fix Page Formatting
-* [ ] Remove the extra block markers around page boundaries
-* [ ] Join words hyphenated across page boundary
+* [x] Remove the extra block markers around page boundaries
+* [x] Join words hyphenated across page boundary
 * Handle blank pages:
-  * [ ] Check that `[Blank Page]` are blank
-  * [ ] Remove blank pages
+  * [x] Check that `[Blank Page]` are blank
+  * [x] Remove blank pages
 
 ### Fix Footnotes and Illustrations
 * [ ] Fix Footnotes and Illustrations still inside a paragraph
