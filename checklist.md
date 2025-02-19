@@ -100,8 +100,8 @@ _The slide valve, simply explained._ by Tennant, William J.
 ## Preliminary Fixup
 
 ### Basic Fixup
-* [ ] Open `Tools → Basic Fixup...`
-* [ ] Correct entries as appropriate
+* [x] Open `Tools → Basic Fixup...`
+* [x] Correct entries as appropriate
 
 ### Fix Block Markups 
 * [ ] Use the `Search` menu to step through all `/* */` blocks.
