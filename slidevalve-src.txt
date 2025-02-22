@@ -157,7 +157,7 @@ and Lead</sc>,        24
 
 CHAPTER V.
 
-<sc>Expansion--Inside and Outside Lap and
+<sc>Expansion—Inside and Outside Lap and
 Lead; Advance affected thereby.
 Compression</sc>,       31
 
@@ -194,7 +194,7 @@ EDITION.
 
 
 There is no more important part of the
-steam-engine than the valve--the part which
+steam-engine than the valve—the part which
 determines when and for how long the steam
 shall be admitted to the cylinder, how long it
 shall stay there and how long it shall be allowed
@@ -364,7 +364,7 @@ commencement.
 Take a piece of stout white cardboard and
 upon it set out an enlarged copy of fig. 1.[1]
 
-[Illustration: <sc>Fig. 1.</sc>--Explanatory Diagram.]
+[Illustration: <sc>Fig. 1.</sc>—Explanatory Diagram.]
 
 [Footnote 1: See also fig. 41.]
 
@@ -394,7 +394,7 @@ discharged. The relationship between this view
 and the upper part of fig. 1 will be obvious
 upon a comparison of the two.
 
-[Illustration: <sc>Fig. 2.</sc>--Perspective Section of Steam-Engine Cylinder.]
+[Illustration: <sc>Fig. 2.</sc>—Perspective Section of Steam-Engine Cylinder.]
 
 A typical slide valve is shown in section, in
 -----File: p09.png---------------------------------------------------------
@@ -414,7 +414,7 @@ friction between the port-face and the valve
 heavily loaded by the pressure of steam upon
 its back.
 
-*[Illustration: <sc>Figs.</sc> 3 and 4.--Separate Views of the Slide Valve.]
+*[Illustration: <sc>Figs.</sc> 3 and 4.—Separate Views of the Slide Valve.]
 
 Let us return now to fig. 1. Draw, near the
 edge of a strip of moderately stiff paper, the
@@ -427,7 +427,7 @@ of fig. 1, the following explanation of the action
 of this, the simplest form of slide valve, will
 be readily appreciated.
 
-[Illustration: <sc>Fig. 5.</sc>--Section of Slide Valve.]
+[Illustration: <sc>Fig. 5.</sc>—Section of Slide Valve.]
 
 This valve has first to open one port to
 -----File: p11.png---------------------------------------------------------
@@ -462,7 +462,7 @@ In fig. 6 the valve is shown at the two extremes
 of its travel, in full lines at one end, and in
 dotted lines at the other end.
 
-*[Illustration: <sc>Fig. 6.</sc>--Section showing Position of Slide Valve in relation
+*[Illustration: <sc>Fig. 6.</sc>—Section showing Position of Slide Valve in relation
 to Steam and Exhaust-Ports.]
 -----File: p13.png---------------------------------------------------------
 
@@ -487,7 +487,7 @@ it (for this is what happens in the case of a
 steam-engine, the travel of the valve being such
 that a crank of the usual [** in-line illustration] form
 would be disproportionate to the shaft of which
-it formed part--like fig. 7, perhaps). Now,
+it formed part—like fig. 7, perhaps). Now,
 that such a shaft would be extremely weak at
 the pin goes without saying. Imagine, that
 to lessen the weakness the crank-pin of this
@@ -497,7 +497,7 @@ the same result, which is that the <i>throw</i> of the
 -----File: p14.png---------------------------------------------------------
 crank remains the same, and equals the distance
 of the centre of the crank-pin from the
-centre of the crank-shaft--<i>i.e.</i>, the amount that
+centre of the crank-shaft—<i>i.e.</i>, the amount that
 this crank-pin is "<i>ex-centric</i>," out of centre,
 and <i>the eccentric sheave being simply an exaggerated
 crank-pin</i> we get back to our original
@@ -507,11 +507,11 @@ throw equals the half-travel of the valve, which
 in turn equals the amount of eccentricity of
 the sheave.
 
-*[Illustration: <sc>Fig. 7.</sc>--Half-travel of Valve.]
+*[Illustration: <sc>Fig. 7.</sc>—Half-travel of Valve.]
 
-[Illustration: <sc>Fig. 8.</sc>--Half-travel of Valve.]
+[Illustration: <sc>Fig. 8.</sc>—Half-travel of Valve.]
 
-[Illustration: <sc>Fig. 9.</sc>--Half-travel of Valve.]
+[Illustration: <sc>Fig. 9.</sc>—Half-travel of Valve.]
 
 Being fixed to the crank-shaft and moving
 with it, always in a fixed relationship to the
@@ -641,7 +641,7 @@ that, whenever the piston is at either end of its
 stroke, this valve must be in the middle of its
 travel.
 
-If this be granted, we may proceed further:--Having
+If this be granted, we may proceed further:—Having
 the piston at the right-hand end of
 its stroke, for instance, draw a line on the disc
 at right angles with the crank (see fig. 10);
@@ -678,7 +678,7 @@ the time being must be set in advance of the
 crank, and that advance must be <i>at least 90°</i>.
 
 If it were less than 90° the wrong port
-would be opened--the port at the opposite end
+would be opened—the port at the opposite end
 of the cylinder to that at which the piston
 might happen to be. This effect may be shown
 by purposely giving the eccentric less advance.
@@ -741,15 +741,15 @@ by touching for a moment upon one or two
 elementary matters which, if not now explained,
 might cause confusion subsequently.
 
-<i>Dead Centres.</i>--A crank is said to be "on
+<i>Dead Centres.</i>—A crank is said to be "on
 the centre" or "on the dead centre" when the
 connecting-rod and crank are in line, and this
 occurs twice in every revolution, as shown in
 fig. 11.
 
-[Illustration: <sc>Fig. 11.</sc>--Dead Centre--Connecting Rod and Crank in Line.]
+[Illustration: <sc>Fig. 11.</sc>—Dead Centre—Connecting Rod and Crank in Line.]
 
-<i>Right-hand Crank to Lead.</i>--The phrases
+<i>Right-hand Crank to Lead.</i>—The phrases
 "right-hand crank to lead," or "left-hand
 crank to lead," are sometimes used, and are
 confusing to beginners; the "leading" crank
@@ -779,7 +779,7 @@ of the driving cranks of an English locomotive.
 The cylinders are supposed to be to
 the right of the wheels.)
 
-[Illustration: <sc>Fig. 12.</sc>--Order of Cranks.]
+[Illustration: <sc>Fig. 12.</sc>—Order of Cranks.]
 -----File: p27.png---------------------------------------------------------
 
 The accompanying diagram (fig. 13) will perhaps
@@ -790,7 +790,7 @@ of "order of cranks, high, intermediate, low,"
 or "order of cranks, high, low, intermediate,"
 as the case may be.
 
-[Illustration: <sc>Fig. 13.</sc>--Order of Cranks.]
+[Illustration: <sc>Fig. 13.</sc>—Order of Cranks.]
 
 Let us revert here to one of the points previously
 noted, which was that the simple valve,
@@ -804,7 +804,7 @@ is on either of the "dead centres."
 Keeping this fact in mind, we will consider
 the matters of
 
-<i>Cushioning and Lead.</i>--It has long been
+<i>Cushioning and Lead.</i>—It has long been
 found desirable (especially in quick-running
 engines) that the motion of the returning piston
 should be opposed as it arrives at either
@@ -873,11 +873,11 @@ been said, there is something more than
 
 CHAPTER V.
 
-EXPANSION--INSIDE AND OUTSIDE LAP AND
-LEAD; ADVANCE AFFECTED THEREBY--COMPRESSION.
+EXPANSION—INSIDE AND OUTSIDE LAP AND
+LEAD; ADVANCE AFFECTED THEREBY—COMPRESSION.
 
 
-<i>Expansion.</i>--In order that the expansive properties
+<i>Expansion.</i>—In order that the expansive properties
 of steam may be utilised, it must be cut
 off before the piston arrives at the end of its
 stroke, and on being cut off <i>must not be allowed
@@ -910,7 +910,7 @@ the old one, as, to open fully each port to
 steam, we have to bring the edge <i>a</i> to <i>c</i>, first
 for one end of the valve and then for the other,
 so that the travel of this valve must be <i>twice
-the distance from a to c</i>--<i>i.e.</i> (lap <i>plus</i> port-opening)
+the distance from a to c</i>—<i>i.e.</i> (lap <i>plus</i> port-opening)
 × 2, whereas for the old valve it
 was the distance from <i>d</i> to <i>c</i> which had to be
 multiplied by two to give the travel.
@@ -945,7 +945,7 @@ port-opening</i>, and lead does not affect it.
 The advance of the eccentric is usually
 stated by specifying the angle of advance or
 the number of degrees <i>exceeding 90 degs.</i> that
-the eccentric is in advance of the crank--for
+the eccentric is in advance of the crank—for
 instance, "an angle of advance of 10 degs."
 means 90 degs. + 10 degs. = 100 degs. in advance
 of the crank.
@@ -958,7 +958,7 @@ from a line at right angles to the valve-travel
 line, and not at right angles to the line
 of piston-travel, as we have hitherto assumed.
 
-[Illustration: <sc>Fig. 17.</sc>--Engine in which the Line of Travel of Valve is Inclined in Relation to that of the Piston.]
+[Illustration: <sc>Fig. 17.</sc>—Engine in which the Line of Travel of Valve is Inclined in Relation to that of the Piston.]
 
 We must now carefully consider the further
 results obtained by the use of a valve having
@@ -1034,7 +1034,7 @@ because of the lengthening of the valve-face
 due to the inside lap, and compression will
 commence earlier and will be of longer duration
 from the same cause; exhaust being
-shortened in two ways--by the amount added
+shortened in two ways—by the amount added
 to the duration of expansion at its end, and
 by a similar amount added to the compression
 at the commencement thereof.
@@ -1082,7 +1082,7 @@ From this it will be obvious why many express
 locomotives are given inside lead, and
 why many good engines have inside lap.
 
-<i>Free Exhaust.</i>--In order to give as free a
+<i>Free Exhaust.</i>—In order to give as free a
 passage as possible to the exhaust steam, so
 that it may leave the cylinder easily, and not
 have to be forced out by the returning piston
@@ -1116,7 +1116,7 @@ DOUBLE-PORTED, MULTIPLE ADMISSION, AND
 PISTON VALVES.
 
 
-<i>Double-ported Valves.</i>--In large marine engines
+<i>Double-ported Valves.</i>—In large marine engines
 using considerable quantities of steam
 per stroke, and consequently requiring a large
 amount of port-opening, the ordinary slide
@@ -1149,13 +1149,13 @@ the valve) a little to the near side of the centre
 line. Fig. 25 shows a sectional view of a
 double-ported valve in perspective.
 
-[Illustration: <sc>Fig. 23.</sc>--Diagram showing Flow of Steam and Exhaust
+[Illustration: <sc>Fig. 23.</sc>—Diagram showing Flow of Steam and Exhaust
 through a Double-ported Slide Valve.]
 
-[Illustration: <sc>Fig. 24.</sc>--Vertical Section through a Double-ported
+[Illustration: <sc>Fig. 24.</sc>—Vertical Section through a Double-ported
 Slide Valve.]
 
-[Illustration: <sc>Fig. 25.</sc>--Perspective view (in Section) of a Double-ported
+[Illustration: <sc>Fig. 25.</sc>—Perspective view (in Section) of a Double-ported
 Slide Valve.]
 
 Now, any movement given to the "inner
@@ -1212,7 +1212,7 @@ opening required) × 2. The valve should be
 set with a linear advance equal to the lap plus
 one-half the required lead.
 
-[Illustration: <sc>Fig. 26.</sc>--The Giddings Valve.]
+[Illustration: <sc>Fig. 26.</sc>—The Giddings Valve.]
 
 -----File: p47.png---------------------------------------------------------
 
@@ -1277,7 +1277,7 @@ of the steam against its back, aided by one or
 two small springs inserted between the plate
 and the steam-chest cover.
 
-[Illustration: <sc>Fig. 27.</sc>--The Straight Line Valve.]
+[Illustration: <sc>Fig. 27.</sc>—The Straight Line Valve.]
 
 This valve should be set so that the distance
 the valve is from midposition when the piston
@@ -1297,7 +1297,7 @@ lap and one-fourth the maximum opening of
 the port for steam, or 2 × (steam lap + 1/4
 maximum opening of port for steam).
 
-[Illustration: <sc>Fig. 28.</sc>--The Woodbury Valve.]
+[Illustration: <sc>Fig. 28.</sc>—The Woodbury Valve.]
 
 The different phases of the movement of a
 multiple admission valve are just the same as
@@ -1305,7 +1305,7 @@ for the ordinary slide valve, the only difference
 being in the suddenness with which the ports
 are opened and closed.
 
-<i>Piston Valves.</i>--It may be readily seen that
+<i>Piston Valves.</i>—It may be readily seen that
 between the ordinary flat slide valve and the
 valve-seat considerable friction is set up, because
 the steam pressure on the back of the
@@ -1348,7 +1348,7 @@ given by the inner edges.
 
 *[Illustration: <sc>Fig. 30.</sc>]
 
-[Illustration: <sc>Fig. 31.</sc>--The Ide Valve.]
+[Illustration: <sc>Fig. 31.</sc>—The Ide Valve.]
 
 The eccentrics for a valve with internal
 steam-supply must be placed 180 degs. in
@@ -1435,7 +1435,7 @@ THE EFFECT OF ALTERATIONS TO VALVE AND
 ECCENTRIC.
 
 
-<i>Advance of the Eccentric.</i>--It should here be
+<i>Advance of the Eccentric.</i>—It should here be
 established that to any given example of valve,
 ports, and eccentric (leaving the piston out
 of consideration for a moment) belongs a certain
@@ -1457,7 +1457,7 @@ the middle, falling again to <i>nil</i> at the end.
 [Footnote 3: To make the idea clear one might plot these operations
 round a circle representing one revolution of the eccentric,
 when it would be seen that the operations of the <i>valve</i> could
-be considered quite independently of those of the piston--then
+be considered quite independently of those of the piston—then
 it would remain to show what the piston might do, or have done
 upon it, by comparing its motion under varying conditions
 with the <i>unvarying</i> operations of the valve, in the manner explained
@@ -1496,14 +1496,14 @@ standard of reference, and when it is
 desired to consider the effect of advancing the
 -----File: p60.png---------------------------------------------------------
 eccentric, to imagine instead that it is the setting
-of the main crank which is altered</i>--which
+of the main crank which is altered</i>—which
 in effect is the same thing, and is, perhaps,
 easier to reason out.
 
 *[Illustration: <sc>Fig. 32.</sc>]
 
 <i>Lengthening or Shortening the Eccentric
-Rod--Shifting the Valve on its Spindle.</i>--Starting
+Rod—Shifting the Valve on its Spindle.</i>—Starting
 with the valve in its central position,
 and lengthening or shortening the eccentric
 rod or shifting the valve on its spindle, or
@@ -1539,7 +1539,7 @@ at cut-off, release, and compression, for both
 ends of the cylinder, the valve would always
 be found 1/8 in. to the left of its proper position.
 The result would be, as shown in fig. 33, that:
-At left-hand of cylinder (see lines of dashes):--
+At left-hand of cylinder (see lines of dashes):—
 
 [Illustration: <sc>Fig. 33.</sc>]
 
@@ -1556,7 +1556,7 @@ taking place as the valve moves <i>from</i>
 the left.
 
 [**indentation]At right-hand end of cylinder (see lines of
-dots):--
+dots):—
 #/
 
 /*
@@ -1593,7 +1593,7 @@ valve with a different index-pointer, as though
 opposite ends of one valve were differently
 proportioned, as in certain large vertical engines.
 
-<i>Adding Extra Lap to a Valve.</i>--In some
+<i>Adding Extra Lap to a Valve.</i>—In some
 cases cut-off may be wanted earlier in the
 stroke, permanently, with expansion of longer
 duration. Under such circumstances more lap
@@ -1627,7 +1627,7 @@ the port would first be opened to an exceedingly small degree
 and instantly shut again, the amount and duration of opening
 increasing with each successive removal of lap.]
 
-<i>General.</i>--It is here seen that in altering
+<i>General.</i>—It is here seen that in altering
 either the outside or the inside laps with intent
 to affect only the steam admission with the
 -----File: p65.png---------------------------------------------------------
@@ -1635,7 +1635,7 @@ former, or only the exhaust with the latter,
 we must <i>perforce</i> affect other things. For instance,
 we alter the outside lap, with the intention,
 say, of simply making cut-off earlier
-or later as the case may be--but having altered
+or later as the case may be—but having altered
 the lengths of the valve-faces, they will alter
 the duration of expansion and of compression,
 and the alteration necessitated in the advance
@@ -1661,7 +1661,7 @@ CHAPTER VIII.
 NOTE ON LINK MOTIONS.
 
 
-<i>The Link Motion.</i>--In engines whose duty
+<i>The Link Motion.</i>—In engines whose duty
 <i>frequently</i> varies, as in the familiar case of
 a locomotive, permanent alteration of lap
 would not meet the requirements of the case,
@@ -1693,7 +1693,7 @@ now, as the link is raised (an operation
 sometimes termed "linking-up") its centre
 gets nearer to the block on the end of the
 valve-spindle than it was before (<i>i.e.</i>, nearer
-to "mid-gear"), and we get in effect:--
+to "mid-gear"), and we get in effect:—
 
 /*
 <i>With link motion {  A series of eccentrics of decreasing
@@ -1774,7 +1774,7 @@ NOTE ON VERY EARLY CUT-OFF, AND ON REVERSING
 GEARS IN GENERAL.
 
 
-<i>Very early Cut-off.</i>--Theoretically there is no
+<i>Very early Cut-off.</i>—Theoretically there is no
 limit to the range of cut-off which may be obtained
 from an ordinary slide valve, but a
 moment's consideration will show that if we
@@ -1828,7 +1828,7 @@ be moving in opposite directions, and so shall
 effect a sharp cut-off, whereby wire-drawing
 is reduced.
 
-*[Illustration: <sc>Fig. 38.</sc>--Slide Valve, with Cut-off Plate on back.]
+*[Illustration: <sc>Fig. 38.</sc>—Slide Valve, with Cut-off Plate on back.]
 
 With the model referred to in the earlier
 chapters, the action of a Meyer or similar gear
@@ -1861,7 +1861,7 @@ position as to admit steam to the left-hand end
 of the cylinder and to allow it to exhaust from
 the right-hand end, as indicated by the arrows.
 
-[Illustration: <sc>Fig. 39.</sc>--The Buckeye Valve.]
+[Illustration: <sc>Fig. 39.</sc>—The Buckeye Valve.]
 
 Each valve is moved by its own eccentric,
 quite independently of the other. By changing
@@ -1874,7 +1874,7 @@ of the steam, it is possible, with this
 valve, to change the cut-off as desired without
 affecting these at all.
 
-<i>The Trick or Allen Valve.</i>--In connection
+<i>The Trick or Allen Valve.</i>—In connection
 with the subject of early cut-offs the Trick or
 Allen valve may be mentioned. It is made
 with a passage-way through the back of the
@@ -1907,8 +1907,8 @@ of corresponding proportions, the distinctive
 feature of the valve having no effect upon them
 so far as their timing is concerned.
 
-<i>Reversal.</i>--It may be of interest to consider
-the question--"Why do we need <i>reversing</i>
+<i>Reversal.</i>—It may be of interest to consider
+the question—"Why do we need <i>reversing</i>
 gears?" The gears in common use are nearly
 all variable expansion gears, as well as being
 <i>reversing</i> gears, but it is desired to consider
@@ -1934,7 +1934,7 @@ been reversed. The valve is doing now exactly
 what it did before, performing its operations
 in the same order. Why have we had to employ
 -----File: p80.png---------------------------------------------------------
-reversing gear? Solely because--when
+reversing gear? Solely because—when
 the engine ceases to run <i>ahead</i> for instance,
 stopping at half-stroke the piston and valve
 will be in a certain position, and will have been
@@ -1942,12 +1942,12 @@ moving in certain directions relatively to one
 another. And to reverse the <i>piston's</i> motion,
 we want the valve
 
-<i>Firstly</i>--To take up a new position on the
+<i>Firstly</i>—To take up a new position on the
 port-face, so as, for example, to give steam
 where it had previously given exhaust, and
 thus we get reversal of the <i>engine</i>; and
 
-<i>Secondly</i>--To move away from that new
+<i>Secondly</i>—To move away from that new
 position, after the engine has started astern,
 in the same direction as that in which it was
 moving when the engine was running ahead.
@@ -1962,7 +1962,7 @@ of the first motion of the valve after
 stopping (<i>i.e.</i>, for "changing the step"), for
 after it next reaches the end of its travel its
 motion will be in all respects just as it was
-when the engine ran ahead,--so that, if we
+when the engine ran ahead,—so that, if we
 had a single-cylinder engine and never stopped
 -----File: p81.png---------------------------------------------------------
 it except on the dead centres, we could drive

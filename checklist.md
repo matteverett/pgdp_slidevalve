@@ -166,17 +166,17 @@ _The slide valve, simply explained._ by Tennant, William J.
 * [x] `Search → Find Orphaned DP Markup`.
 
 ### Fix Front Matter
-* [ ] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
-* [ ] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions.
+* [x] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
+* [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions.
 
 ### Unicode dashes
-* [ ] Long dash: S/R `([^-])----([^-]|$)` → `\1——\2`
+* [x] Long dash: S/R `([^-])----([^-]|$)` → `\1——\2`
   * There exists a “long dash” Unicode character (TWO-EM DASH, U+2E3A). However, display support for it is not broad, so it’s better to use two consecutive EM DASH, which is widely supported.
 
-* [ ] Em dash: S/R `([^-])--([^-]|$)` → `\1—\2`
+* [x] Em dash: S/R `([^-])--([^-]|$)` → `\1—\2`
   * There exists another dash (HORIZONTAL BAR, U+2015) which one PM/PP prefers to EM DASH (using two bars for one EM DASH), based on appearance in text version. I opted not to use this in favor of using the EM DASH character in both text and HTML.
 
-* [ ] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
+* [x] [En dash](https://www.pgdp.net/wiki/En-dash): S/R `([^-])-([^-]|$)` → `\1–\2`
   * Range of numbers `12–15`
   * Mathematical minus sign `15 – 12 = 3`
   * Negative numbers `–14º`
