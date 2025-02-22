@@ -128,12 +128,12 @@ _The slide valve, simply explained._ by Tennant, William J.
   * [x] Remove blank pages
 
 ### Fix Footnotes and Illustrations
-* [ ] Fix Footnotes and Illustrations still inside a paragraph
+* [x] Fix Footnotes and Illustrations still inside a paragraph
   * Move outside paragraph to next or prior page, as appropriate
   * Don't worry about duplicate footnote numbers/symbols for now
   * Sidenotes are handled later
 
-* [ ] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
+* [x] Use `Tools → Footnote Fixup`. This will help you validate and move any footnotes.
   * `First Pass`
   * `Next / Prev FN` to navigate
   * Look for `*` and use `Join with Previous` to join them
@@ -141,25 +141,25 @@ _The slide valve, simply explained._ by Tennant, William J.
     * Exception: sometimes a footnote is really long (brown)
     * Exception: multiple anchors per footnote can confuse it (teal)
 
-* [ ] Move footnotes between paragraphs
+* [x] Move footnotes between paragraphs
   * `Footnote Fixup`, `First Pass`
   * `All to Number`, `Reindex`
   * `First Pass`, `Move FNs to Para`
 
 ### Fix Sidenotes
-* [ ] Step through sidenotes
+* [x] Step through sidenotes
   * Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes).
   * Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
-* [ ] Compare to page image. Move note above paragraph if feasible.
+* [x] Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
 
 ### Fix Poetry Line Numbers
-* [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
+* [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
 ## Preliminary Corrections
 
 ### Errata
-* [ ] If original book had errata, apply it and note in TN
+* [x] If original book had errata, apply it and note in TN
 
 ### Fix Proofer Comments
 * [ ] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.

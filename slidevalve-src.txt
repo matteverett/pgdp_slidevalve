@@ -362,9 +362,11 @@ he will have made a satisfactory
 commencement.
 
 Take a piece of stout white cardboard and
-upon it set out an enlarged copy of fig. 1.[A]
+upon it set out an enlarged copy of fig. 1.[1]
 
-*[Illustration: <sc>Fig. 1.</sc>--Explanatory Diagram.]
+[Illustration: <sc>Fig. 1.</sc>--Explanatory Diagram.]
+
+[Footnote 1: See also fig. 41.]
 
 The upper portion of this diagram represents
 a section taken at right angles to the
@@ -381,7 +383,6 @@ Fig. 2 shows, in perspective, a cylinder and
 valve-chest with parts removed to make clear
 the manner in which the two steam-ports
 
-[Footnote A: See also fig. 41.]
 -----File: p08.png---------------------------------------------------------
 (S_{1}S_{2}) at the upper ends of the two outer passages
 (P_{1}P_{2}) afford a communication between
@@ -546,21 +547,10 @@ and the valve being dispensed with, some
 means for making the movement of the valve
 correspond accurately with that of its crank
 must be provided. This provision is made by
-the numbered scales[A] in fig. 1; the circular
+the numbered scales[2] in fig. 1; the circular
 scale within which the card disc revolves is
 numbered in correspondence with scales on the
 ports, and to these latter an arrow on the strip
-
-[Footnote A: The horizontal scales on the port-faces are obtained by
-projecting up equidistant circumferential marks from various
-circles having different valve-cranks for their radii. The scale
-(No. 1) is for the elementary form of valve, without lap; it serves
-also for link-motion in mid-gear; No. 2 is for a valve having
-outside lap; and No[** .] 3 is for link-motion "linked up." The
-student need not, unless he pleases, troub e[** trouble ] himself to investigate
-the construction of the diagram, which is drawn to scale,[** blurred punctuation]
-so that if copied accurately it will serve to give him the demonstrations[** hyphen assumed]
-desired.]
 -----File: p18.png---------------------------------------------------------
 of paper which carries the valve is adjusted
 (see also fig. 10). To find the position in
@@ -583,6 +573,17 @@ moved independently. If the reader will now
 read the preface, which he has probably
 skipped, he will the more readily appreciate
 the principle of this arrangement.
+
+[Footnote 2: The horizontal scales on the port-faces are obtained by
+projecting up equidistant circumferential marks from various
+circles having different valve-cranks for their radii. The scale
+(No. 1) is for the elementary form of valve, without lap; it serves
+also for link-motion in mid-gear; No. 2 is for a valve having
+outside lap; and No[** .] 3 is for link-motion "linked up." The
+student need not, unless he pleases, troub e[** trouble ] himself to investigate
+the construction of the diagram, which is drawn to scale,[** blurred punctuation]
+so that if copied accurately it will serve to give him the demonstrations[** hyphen assumed]
+desired.]
 
 Further, taking the main crank-arm (C) as
 an index-finger, the position of its end at the
@@ -1441,14 +1442,19 @@ of consideration for a moment) belongs a certain
 cycle of operations, the occurrence of these
 operations and their <i>duration, expressed in
 fractions of a revolution of the rotating eccentric</i>,
-being constant for a given case,[A] but the
+being constant for a given case,[3] but the
 fraction of stroke traversed by the <i>piston</i>
 between or during any of these operations
 of the valve will depend upon <i>where</i> in the
 stroke of the piston the cycle of operations is
 started, taking any convenient operation as
+-----File: p58.png---------------------------------------------------------
+being the commencement of the cycle, for the
+speed of the piston rises from <i>nil</i> at the commencement
+of its stroke to a maximum near
+the middle, falling again to <i>nil</i> at the end.
 
-[Footnote A: To make the idea clear one might plot these operations
+[Footnote 3: To make the idea clear one might plot these operations
 round a circle representing one revolution of the eccentric,
 when it would be seen that the operations of the <i>valve</i> could
 be considered quite independently of those of the piston--then
@@ -1456,11 +1462,6 @@ it would remain to show what the piston might do, or have done
 upon it, by comparing its motion under varying conditions
 with the <i>unvarying</i> operations of the valve, in the manner explained
 later.]
------File: p58.png---------------------------------------------------------
-being the commencement of the cycle, for the
-speed of the piston rises from <i>nil</i> at the commencement
-of its stroke to a maximum near
-the middle, falling again to <i>nil</i> at the end.
 
 Now we may go on to consider the effect
 of increasing the advance of an eccentric beyond
@@ -1604,7 +1605,7 @@ to get the same lead as before (travel of valve
 remaining unaltered), the steam-ports will not
 be opened to so great an extent as formerly,
 and will close earlier, partly because of the
-added lap,[A] and partly because of the increased
+added lap,[4] and partly because of the increased
 advance. The increased length of the valve-face
 will, after cut-off, confine the steam longer
 in the cylinder, and it should be obvious (the
@@ -1617,11 +1618,7 @@ earlier because of the increased advance, and
 the compression will be of longer duration
 because of the increased length of the valve-face.
 
-<i>General.</i>--It is here seen that in altering
-either the outside or the inside laps with intent
-to affect only the steam admission with the
-
-[Footnote A: To assure one's self of this, take an extreme case and
+[Footnote 4: To assure one's self of this, take an extreme case and
 imagine an excessive amount of lap to be added. In such a
 case, with travel unaltered, the ports might not be opened to
 steam at all, the valve simply sliding backwards and forwards
@@ -1629,6 +1626,10 @@ without uncovering them; now, taking this lap off piecemeal
 the port would first be opened to an exceedingly small degree
 and instantly shut again, the amuont[**amount?] and duration of opening
 increasing with each successive removal of lap.]
+
+<i>General.</i>--It is here seen that in altering
+either the outside or the inside laps with intent
+to affect only the steam admission with the
 -----File: p65.png---------------------------------------------------------
 former, or only the exhaust with the latter,
 we must <i>perforce</i> affect other things. For instance,
@@ -1990,17 +1991,17 @@ serves as an index finger in the recording and
 reading of results.
 
 The mark 1 is the index-mark for the forward
-eccentric to operate a valve without lap.[A]
+eccentric to operate a valve without lap.[5]
 
 The mark 2 is the index for a forward eccentric
-set for lead, using a valve without lap.[A][**2nd anchor "A"]
+set for lead, using a valve without lap.[5][**2nd anchor "A"]
+
+[Footnote 5: Used with No. 1 travel-scale, fig. 1.]
 
 The mark 3 is for a forward eccentric for
-a valve with lap and lead run in "full gear."[B]
+a valve with lap and lead run in "full gear."[6]
 
-[Footnote A: Used with No. 1 travel-scale, fig. 1.]
-
-[Footnote B:
+[Footnote 6: Used with No. 2 travel-scale, fig. 1.
 
 /*
   "    "   No. 2   "      "       "[**aligned to match footnote A]
@@ -2010,33 +2011,49 @@ a valve with lap and lead run in "full gear."[B]
 
 The mark 4 is for a forward eccentric for
 a valve with lap and lead run with a link motion
-partially "linked up."[A]
+partially "linked up."[7]
+
+[Footnote 7: Used with No. 2 travel-scale, fig. 1.]
 
 The mark 5 is for a valve with lap and lead
-run with the link motion in mid-gear.[B]
+run with the link motion in mid-gear.[8]
 
-The mark 6 is for a backward eccentric for
-
-[Footnote A: Used with No. 2 travel-scale, fig. 1.]
-
-[Footnote B:
+[Footnote 8: Used with No. 1 travel-scale, fig. 1.
 
 /*
  "    "   No. 1   "      "       "[**aligned to match footnote "A"]
 */
 ]
+
+The mark 6 is for a backward eccentric for
 -----File: p83.png---------------------------------------------------------
 a valve with lap and lead, run with a link motion
-partially linked-up.[A]
+partially linked-up.[9]
+
+[Footnote 9: Used with No. 2 travel-scale, fig. 1.]
 
 The mark 7 is a backward eccentric for
-a valve with lap and lead run in "full gear."[B]
+a valve with lap and lead run in "full gear."[10]
+
+[Footnote 10: Used with No. 2 travel-scale, fig. 1.
+
+/*
+ "    "   No. 2   "      "       "[**aligned to match footnote "A"]
+*/
+]
 
 The mark 8 is for a backward eccentric set
-for lead, using a valve without any lap.[C]
+for lead, using a valve without any lap.[11]
 
 The mark 9 is for a backward eccentric for
-a valve without lap.[C][**2nd anchor "C"]
+a valve without lap.[11][**2nd anchor "C"]
+
+[Footnote 11: Used with No. 1 travel-scale, fig. 1.
+
+/*
+ "    "   No. 1   "      "       "[**aligned to match footnote "A"]
+*/
+]
 
 The radial lines between the centre of the
 disc and the small circles represent the actual
@@ -2046,18 +2063,3 @@ where the actual throw is not sufficient to enable
 the arms to reach the edge of the disc,
 the throw-lines are produced to the edge.
 
-[Footnote A: Used with No. 2 travel-scale, fig. 1.]
-
-[Footnote B:
-
-/*
- "    "   No. 2   "      "       "[**aligned to match footnote "A"]
-*/
-]
-
-[Footnote C:
-
-/*
- "    "   No. 1   "      "       "[**aligned to match footnote "A"]
-*/
-]
