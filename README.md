@@ -99,6 +99,12 @@ Images from [TIA](https://archive.org/details/slidevalvesimply00tenn).
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+* p. 15: Fig. 9[.] Added.
+* p. 19: No[.] 3 Added
+* p. 19: troub[l]e Added.
+* p. 19: dem[ ]onstrations Joined.
+* p. 49: Fig. 27[.] Added.
+* p. 64: am[u/o]nt Transposed.
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

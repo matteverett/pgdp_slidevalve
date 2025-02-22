@@ -162,8 +162,8 @@ _The slide valve, simply explained._ by Tennant, William J.
 * [x] If original book had errata, apply it and note in TN
 
 ### Fix Proofer Comments
-* [ ] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.
-* [ ] `Search → Find Orphaned DP Markup`.
+* [x] `Search → Find Next Proofer Comment`. Resolve all proofer's notes.
+* [x] `Search → Find Orphaned DP Markup`.
 
 ### Fix Front Matter
 * [ ] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.

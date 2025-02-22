@@ -130,7 +130,7 @@ CONTENTS.
 /*
 <sc>Page</sc>
 
-<sc>Introduction to American Edition</sc>,[**reinstated commas; unsure why F1 deleted them all]        1
+<sc>Introduction to American Edition</sc>,        1
 
 
 CHAPTER I.
@@ -485,7 +485,7 @@ little. Suppose that we have a big crank-shaft,
 and want to put a little crank in the middle of
 it (for this is what happens in the case of a
 steam-engine, the travel of the valve being such
-that a crank of the usual [** diagram] form
+that a crank of the usual [** in-line illustration] form
 would be disproportionate to the shaft of which
 it formed part--like fig. 7, perhaps). Now,
 that such a shaft would be extremely weak at
@@ -511,7 +511,7 @@ the sheave.
 
 [Illustration: <sc>Fig. 8.</sc>--Half-travel of Valve.]
 
-[Illustration: <sc>Fig. 9[**F1: missing . ?]</sc>--Half-travel of Valve.]
+[Illustration: <sc>Fig. 9.</sc>--Half-travel of Valve.]
 
 Being fixed to the crank-shaft and moving
 with it, always in a fixed relationship to the
@@ -579,10 +579,10 @@ projecting up equidistant circumferential marks from various
 circles having different valve-cranks for their radii. The scale
 (No. 1) is for the elementary form of valve, without lap; it serves
 also for link-motion in mid-gear; No. 2 is for a valve having
-outside lap; and No[** .] 3 is for link-motion "linked up." The
-student need not, unless he pleases, troub e[** trouble ] himself to investigate
-the construction of the diagram, which is drawn to scale,[** blurred punctuation]
-so that if copied accurately it will serve to give him the demonstrations[** hyphen assumed]
+outside lap; and No. 3 is for link-motion "linked up." The
+student need not, unless he pleases, trouble himself to investigate
+the construction of the diagram, which is drawn to scale,
+so that if copied accurately it will serve to give him the demonstrations
 desired.]
 
 Further, taking the main crank-arm (C) as
@@ -1277,7 +1277,7 @@ of the steam against its back, aided by one or
 two small springs inserted between the plate
 and the steam-chest cover.
 
-[Illustration: <sc>Fig. 27[**F1: missing . ?]</sc>--The Straight Line Valve.]
+[Illustration: <sc>Fig. 27.</sc>--The Straight Line Valve.]
 
 This valve should be set so that the distance
 the valve is from midposition when the piston
@@ -1555,7 +1555,7 @@ Compression commences later, this operation
 taking place as the valve moves <i>from</i>
 the left.
 
-[**different indentation than previous paragraph]At right-hand end of cylinder (see lines of
+[**indentation]At right-hand end of cylinder (see lines of
 dots):--
 #/
 
@@ -1624,7 +1624,7 @@ case, with travel unaltered, the ports might not be opened to
 steam at all, the valve simply sliding backwards and forwards
 without uncovering them; now, taking this lap off piecemeal
 the port would first be opened to an exceedingly small degree
-and instantly shut again, the amuont[**amount?] and duration of opening
+and instantly shut again, the amount and duration of opening
 increasing with each successive removal of lap.]
 
 <i>General.</i>--It is here seen that in altering
@@ -1980,7 +1980,7 @@ and Joy.
 [Illustration: <sc>Fig. 41.</sc>]
 
 /#
-[**thought break above or new section?]FIG. 41 SHOWS ENLARGED KEY-VIEW OF CARDBOARD
+[**section break?]FIG. 41 SHOWS ENLARGED KEY-VIEW OF CARDBOARD
 CRANK-DISC, WHICH SHOULD TURN
 WITHIN THE CIRCLE DRAWN IN THE CENTRE
 OF FIG. 1.
@@ -1994,19 +1994,14 @@ The mark 1 is the index-mark for the forward
 eccentric to operate a valve without lap.[5]
 
 The mark 2 is the index for a forward eccentric
-set for lead, using a valve without lap.[5][**2nd anchor "A"]
+set for lead, using a valve without lap.[5]
 
 [Footnote 5: Used with No. 1 travel-scale, fig. 1.]
 
 The mark 3 is for a forward eccentric for
 a valve with lap and lead run in "full gear."[6]
 
-[Footnote 6: Used with No. 2 travel-scale, fig. 1.
-
-/*
-  "    "   No. 2   "      "       "[**aligned to match footnote A]
-*/
-]
+[Footnote 6: Used with No. 2 travel-scale, fig. 1.]
 -----File: p82.png---------------------------------------------------------
 
 The mark 4 is for a forward eccentric for
@@ -2018,12 +2013,7 @@ partially "linked up."[7]
 The mark 5 is for a valve with lap and lead
 run with the link motion in mid-gear.[8]
 
-[Footnote 8: Used with No. 1 travel-scale, fig. 1.
-
-/*
- "    "   No. 1   "      "       "[**aligned to match footnote "A"]
-*/
-]
+[Footnote 8: Used with No. 1 travel-scale, fig. 1.]
 
 The mark 6 is for a backward eccentric for
 -----File: p83.png---------------------------------------------------------
@@ -2035,25 +2025,15 @@ partially linked-up.[9]
 The mark 7 is a backward eccentric for
 a valve with lap and lead run in "full gear."[10]
 
-[Footnote 10: Used with No. 2 travel-scale, fig. 1.
-
-/*
- "    "   No. 2   "      "       "[**aligned to match footnote "A"]
-*/
-]
+[Footnote 10: Used with No. 2 travel-scale, fig. 1.]
 
 The mark 8 is for a backward eccentric set
 for lead, using a valve without any lap.[11]
 
 The mark 9 is for a backward eccentric for
-a valve without lap.[11][**2nd anchor "C"]
+a valve without lap.[11]
 
-[Footnote 11: Used with No. 1 travel-scale, fig. 1.
-
-/*
- "    "   No. 1   "      "       "[**aligned to match footnote "A"]
-*/
-]
+[Footnote 11: Used with No. 1 travel-scale, fig. 1.]
 
 The radial lines between the centre of the
 disc and the small circles represent the actual
