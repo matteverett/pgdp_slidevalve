@@ -35,6 +35,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] i_p78.jpg: Fig. 40.--No caption.
 * [ ] i_p82.jpg: Fig. 41.--No caption.
 * [ ] Chapter VI does not match between TOC and chapter title
+* [ ] Convert to fractions (specifically 1/16)
 
 ### Project manager notes ###
 

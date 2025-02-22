@@ -185,13 +185,13 @@ _The slide valve, simply explained._ by Tennant, William J.
 * Any dashes not covered above are simple hyphens.
 
 ### Convert to Curly Quotes
-* [ ] `Tools → Convert to Curly Quotes`.
-  * [ ] Correct any issues
-* [ ] Search for remaining upright single quotation marks and replace them with either a ‘ or a ’.
-* [ ] Check for lingering straight quotes: `['"]`
-* [ ] `Tools → Check Curly Quotes`
-  * [ ] Correct any issues
-* [ ] Validate quotes pairings by searching for `[“”‘’]`
+* [x] `Tools → Convert to Curly Quotes`.
+  * [x] Correct any issues
+* [x] Search for remaining upright single quotation marks and replace them with either a ‘ or a ’.
+* [x] Check for lingering straight quotes: `['"]`
+* [x] `Tools → Check Curly Quotes`
+  * [x] Correct any issues
+* [x] Validate quotes pairings by searching for `[“”‘’]`
 
 ## Tool Checks
 
