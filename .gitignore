@@ -4,7 +4,6 @@ guiguts.log
 *.bin
 *.txt.json
 /output/
-/gimp/
 /zipdir/
 /ebooks/
 /.vscode/
