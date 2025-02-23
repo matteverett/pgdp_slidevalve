@@ -14,7 +14,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Extensive cross-references to figures
+* [x] Extensive cross-references to figures
 * [ ] i_p18.jpg: Fig. 10.--No caption.
 * [ ] i_p29.jpg: Fig. 14.--No caption.
 * [ ] i_p31.jpg: Fig. 15.--No caption.
@@ -35,7 +35,15 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] i_p78.jpg: Fig. 40.--No caption.
 * [ ] i_p82.jpg: Fig. 41.--No caption.
 * [ ] Chapter VI does not match between TOC and chapter title
-* [ ] Convert to fractions (specifically 1/16)
+* [ ] Convert to fractions (specifically 1/16, three-quarters, etc.)
+* [ ] 11 footnotes
+* [ ] LOTS of inconsistent hyphenation
+* [ ] Latin phrases
+* [ ] C^1 unclear
+* Unable to perform checks due to page markers:
+  * [ ] Use `Tools → Word Distance Check...`
+  * [ ] Check spaces around hyphens. Regex: `(\s+-|-\s+)`
+* [ ] Revisit TN after some of the above has been addressed
 
 ### Project manager notes ###
 

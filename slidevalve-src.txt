@@ -382,7 +382,6 @@ made to figs. 2, 3, and 4.
 Fig. 2 shows, in perspective, a cylinder and
 valve-chest with parts removed to make clear
 the manner in which the two steam-ports
-
 -----File: p08.png---------------------------------------------------------
 (S_{1}S_{2}) at the upper ends of the two outer passages
 (P_{1}P_{2}) afford a communication between
@@ -414,7 +413,7 @@ friction between the port-face and the valve
 heavily loaded by the pressure of steam upon
 its back.
 
-*[Illustration: <sc>Figs.</sc> 3 and 4.—Separate Views of the Slide Valve.]
+[Illustration: <sc>Figs.</sc> 3 and 4.—Separate Views of the Slide Valve.]
 
 Let us return now to fig. 1. Draw, near the
 edge of a strip of moderately stiff paper, the
@@ -462,7 +461,7 @@ In fig. 6 the valve is shown at the two extremes
 of its travel, in full lines at one end, and in
 dotted lines at the other end.
 
-*[Illustration: <sc>Fig. 6.</sc>—Section showing Position of Slide Valve in relation
+[Illustration: <sc>Fig. 6.</sc>—Section showing Position of Slide Valve in relation
 to Steam and Exhaust-Ports.]
 -----File: p13.png---------------------------------------------------------
 
@@ -507,7 +506,7 @@ throw equals the half-travel of the valve, which
 in turn equals the amount of eccentricity of
 the sheave.
 
-*[Illustration: <sc>Fig. 7.</sc>—Half-travel of Valve.]
+[Illustration: <sc>Fig. 7.</sc>—Half-travel of Valve.]
 
 [Illustration: <sc>Fig. 8.</sc>—Half-travel of Valve.]
 
@@ -540,7 +539,7 @@ to represent a “valve-crank,” the equivalent
 of the eccentric by which the valve is to be
 operated.
 
-*[Illustration: <sc>Fig. 10.</sc>]
+[Illustration: <sc>Fig. 10.</sc>]
 
 Actual connection between that valve-crank
 and the valve being dispensed with, some
@@ -830,7 +829,7 @@ at the end of its stroke, continuing to open
 the port as the piston comes to a rest, and is
 started on the return stroke.
 
-*[Illustration: <sc>Fig. 14.</sc>]
+[Illustration: <sc>Fig. 14.</sc>]
 
 The amount to which the port is found to be
 open when the piston is at the end of its stroke
@@ -881,7 +880,7 @@ LEAD; ADVANCE AFFECTED THEREBY—COMPRESSION.
 of steam may be utilised, it must be cut
 off before the piston arrives at the end of its
 stroke, and on being cut off <i>must not be allowed
-to commence exhausting immediately</i>.
+to commence exhausting immediately</i>,
 but must be confined in the cylinder, in order
 that by expanding it may force the piston
 further before it. The old valve, as we have
@@ -902,7 +901,7 @@ the valve, that is, the distance <i>d a</i> (fig. 16).
 
 [Illustration: <sc>Fig. 15.</sc>]
 
-*[Illustration: <sc>Fig. 16.</sc>]
+[Illustration: <sc>Fig. 16.</sc>]
 
 The first thing noticeable is that this valve
 must be given considerably more travel than
@@ -1346,7 +1345,7 @@ for the steam and exhaust edges have their
 positions reversed; and the lead will also be
 given by the inner edges.
 
-*[Illustration: <sc>Fig. 30.</sc>]
+[Illustration: <sc>Fig. 30.</sc>]
 
 [Illustration: <sc>Fig. 31.</sc>—The Ide Valve.]
 
@@ -1500,7 +1499,7 @@ of the main crank which is altered</i>—which
 in effect is the same thing, and is, perhaps,
 easier to reason out.
 
-*[Illustration: <sc>Fig. 32.</sc>]
+[Illustration: <sc>Fig. 32.</sc>]
 
 <i>Lengthening or Shortening the Eccentric
 Rod—Shifting the Valve on its Spindle.</i>—Starting
@@ -1541,8 +1540,6 @@ be found 1/8 in. to the left of its proper position.
 The result would be, as shown in fig. 33, that:
 At left-hand of cylinder (see lines of dashes):—
 
-[Illustration: <sc>Fig. 33.</sc>]
-
 /*
 Lead decreases      }  earlier, these operations
 Cut-off takes place }    taking place
@@ -1565,6 +1562,8 @@ Exhaust commences   }    effecting them the
 Cut-off takes place }    valve is moving
                          <i>from</i> the left.
 */
+
+[Illustration: <sc>Fig. 33.</sc>]
 
 Compression commences earlier, for it occurs
 whilst the valve is moving <i>to</i> the left.
@@ -1728,7 +1727,7 @@ exhaust and admission being shortened. The
 difference between working in full gear and
 linked up is shown by the diagram in fig. 34.
 
-*[Illustration: <sc>Fig. 34.</sc>]
+[Illustration: <sc>Fig. 34.</sc>]
 
 Below are diagrams showing the effect of
 putting the link motion in “mid-gear” (fig.
@@ -1762,7 +1761,7 @@ forward stroke, those of the return stroke being
 read from right to left upon the lower portion
 of each diagram.
 
-*[Illustration: <sc>Fig. 37.</sc>]
+[Illustration: <sc>Fig. 37.</sc>]
 -----File: p73.png---------------------------------------------------------
 
 
@@ -1828,13 +1827,13 @@ be moving in opposite directions, and so shall
 effect a sharp cut-off, whereby wire-drawing
 is reduced.
 
-*[Illustration: <sc>Fig. 38.</sc>—Slide Valve, with Cut-off Plate on back.]
+[Illustration: <sc>Fig. 38.</sc>—Slide Valve, with Cut-off Plate on back.]
 
 With the model referred to in the earlier
 chapters, the action of a Meyer or similar gear
 can be readily investigated if an extra eccentric-arm
 be added to the crank-pin disc and
-an extra travel-scale marked upon the base-*plate.
+an extra travel-scale marked upon the baseplate.
 
 In fig. 39 is shown the “Buckeye” valve
 used in America on the Buckeye engine; <i>a</i> is
@@ -2043,3 +2042,21 @@ where the actual throw is not sufficient to enable
 the arms to reach the edge of the disc,
 the throw-lines are produced to the edge.
 
+<b>Transcriber’s Notes</b>
+
+/*
+Missing or obscured punctuation was silently corrected.
+
+Typographical errors were silently corrected.
+
+Inconsistent spelling and hyphenation were made consistent only when a
+predominant form was found in this book.
+
+Text in italics is enclosed by underscores (<i>italics</i>).
+
+Text in superscript is preceded by a caret and enclosed
+in brackets (^{superscript})
+
+Text in superscript is preceded by an underscore and enclosed
+in brackets (_{subscript})
+*/
