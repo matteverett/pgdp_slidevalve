@@ -290,31 +290,31 @@ _The slide valve, simply explained._ by Tennant, William J.
 ## Create Ppgen File
 
 ### Add Front Matter
-* [ ] Add `frontmatter.txt` to the start of the file.
+* [x] Add `frontmatter.txt` to the start of the file.
 
 ### Join page boundaries
-* [ ] Replace page boundaries with `.pm new-page`
+* [x] Replace page boundaries with `.pm new-page`
   * Search Regex: `-----File: (\d\d\d).png---------------------------------------------------------`
   * Replace with: `.pm new-page-break $1`
 
 ### Insert Breaks
-* [ ] Insert chapter and section breaks as appropriate
-* [ ] Convert `.pm new-page` to `.pm new-page-break` as appropriate
+* [x] Insert chapter and section breaks as appropriate
+* [x] Convert `.pm new-page` to `.pm new-page-break` as appropriate
 
 ### Illustrations
-* [ ] Fixup illustrations:
+* [x] Fixup illustrations:
   * [ ] Illustration #1
   * [ ] Illustration #2
   * [ ] etc.
 
 ### Front Matter
-* [ ] Adjust front matter font sizes:
+* [x] Adjust front matter font sizes:
   * `.h1`: 1.4 em
   * `.h2`: 1.2 em
   * `.h3`: 1.2 em
 
 ### Generate HTML and Txt Files
-* [ ] Run ppgen on `{{project}}-src.txt`
+* [x] Run ppgen on `{{project}}-src.txt`
   * `python3.11 ~/pgdp/ppgen/ppgen.py -i {{project}}-src.txt`
 
 ### Run PP Toolbox:

@@ -47,8 +47,7 @@
 .sr h ~<td(.*?)class='(.*?)'(.*?)>%%addclass=(.*?)%%~<td\1class='\2 \4'\3>~
 .sr h ~%%rbrace%%~<img src='images/right-brace.png' class='img-brace' alt=''>~
 .sr h ~%%lbrace%%~<img src='images/left-brace.png' class='img-brace' alt=''>~
-.sr h ~    <td class='.+'>&#160;</td>\n~~
-.sr h ~%%nbsp%%~&nbsp;~
+.sr h ~    <td(.*?)>%%delete%%</td>\n~~
 
 // Page numbering
 .pn off // turn off visible page numbers
@@ -224,63 +223,44 @@ CONTENTS.
 
 .pm section-break
 
-
-/*
-<sc>Page</sc>
-
-<sc>Introduction to American Edition</sc>,        1
-
+.ta h:40 rb:4 w=50%
+                                           |<sc>Page</sc>
+<sc>Introduction to American Edition</sc>, | #1#
 
 CHAPTER I.
-
-<sc>The Simple Slide</sc>,        5
-
+<sc>The Simple Slide</sc>,                 | #5#
 
 CHAPTER II.
-
-<sc>The Eccentric a Crank. Special Model
-to give Quantitative Results</sc>,        13
-
+<sc>The Eccentric a Crank. Special Model\
+to give Quantitative Results</sc>,         | #13#
 
 CHAPTER III.
-
-<sc>Advance of the Eccentric</sc>,        20
-
+<sc>Advance of the Eccentric</sc>,         | #20#
 
 CHAPTER IV.
-
-<sc>Dead Centre. Order of Cranks. Cushioning
-and Lead</sc>,        24
-
+<sc>Dead Centre. Order of Cranks. Cushioning\
+and Lead</sc>,                             | #24#
 
 CHAPTER V.
-
-<sc>Expansion—Inside and Outside Lap and
-Lead; Advance affected thereby.
-Compression</sc>,       31
-
+<sc>Expansion—Inside and Outside Lap and\
+Lead; Advance affected thereby.\
+Compression</sc>,                          | #31#
 
 CHAPTER VI.
-
-<sc>Double-ported and Piston Valves</sc>,        43
-
+<sc>Double-ported and Piston Valves</sc>,  | #43#
 
 CHAPTER VII.
-
-<sc>The Effect of Alterations to Valve and
-Eccentric</sc>,        57
-
+<sc>The Effect of Alterations to Valve and\
+Eccentric</sc>,                            | #57#
 
 CHAPTER VIII.
-
-<sc>Note on Link Motions</sc>,        66
-
+<sc>Note on Link Motions</sc>,             | #66#
 
 CHAPTER IX.
+<sc>Note on very early cut-off, and on Reversing\
+Gears in general</sc>,                     | #73#
+.ta-
 
-<sc>Note on very early cut-off, and on Reversing
-Gears in general</sc>,        73
-*/
 .pm new-page f08
 
 .pb
@@ -1228,10 +1208,10 @@ Compression | { |
 .if h
 .ta lm:12 cm:1 hm:48 w=50%
 %%rowspan=2%%Expansion   | %%rowspan=2%%%%addclass=td-brace%%%%lbrace%% | is shorter and exhaust earlier with inside lead.
-                         |                                              | is longer and exhaust later with inside lap.
-%%nbsp%%                 | %%nbsp%%                                     | %%nbsp%%
+%%delete%%               | %%delete%%                                   | is longer and exhaust later with inside lap.
+                         |                                              | 
 %%rowspan=2%%Compression | %%rowspan=2%%%%addclass=td-brace%%%%lbrace%% | is later and shorter with inside lead.
-                         |                                              | is earlier and longer with inside lap.
+%%delete%%               | %%delete%%                                   | is earlier and longer with inside lap.
 .ta-
 .if-
 
@@ -1904,7 +1884,6 @@ to “mid-gear”), and we get in effect:—
 
 .if t
 .ta l:24 c:1 h:34
-
                               | { | A series of eccentrics of
 <i>With link motion</i>       | { | %%in%%decreasing throw, but of
 <i>having “open” rods.</i>    | { | %%in%%increasing angular and
@@ -1924,7 +1903,7 @@ to “mid-gear”), and we get in effect:—
 .if h
 .ta lm:24 cm:1 hm:34 w=50%
 <i>With link motion having “open” rods.</i>    | %%addclass=td-brace%%%%lbrace%% | A series of eccentrics of decreasing throw, but of increasing angular and linear advance.
-%%nbsp%%                                       | %%nbsp%%                        | %%nbsp%%
+
 <i>With link motion having “crossed” rods.</i> | %%addclass=td-brace%%%%lbrace%% | A series of eccentrics of decreasing throw and of increasing angular, but decreasing linear advance; throw, therefore, decreasing more rapidly than in the case of the link motion with “open” rods.
 .ta-
 .if-
