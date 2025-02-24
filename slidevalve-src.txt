@@ -40,7 +40,7 @@
 .dm-
 
 // Table brace fix-up
-.de .img-brace { height:100%; width:0.5em; position: absolute; top:0; max-height:300pm; }
+.de .img-brace { height:100%; width:0.5em; position: absolute; top:0; max-height:300px; }
 .de .td-brace { position:relative; width:0.5em; }
 .sr t ~%%in%%~  ~
 .sr h ~<td(.*?)>%%rowspan=(.*?)%%~<td\1 rowspan='\2'>~
@@ -406,7 +406,7 @@ CHAPTER I.||<fs=85%>THE SIMPLE SLIDE.</fs>
 .pm section-break
 
 The slide valve has always been regarded by
-the writer as the <i>pons asinorum</i> of the student
+the writer as the <i><lang=la>pons asinorum</lang></i> of the student
 of the steam-engine. His own early attempts
 at crossing that bridge were greatly facilitated
 by the simple little device to be presently submitted
@@ -569,6 +569,10 @@ SPECIAL MODEL TO GIVE QUANTITATIVE RESULTS.</fs>
 
 .pm section-break
 
+.de .i_p13 { height: 1em; }
+.sr h ~%%i_p13.png%%~<img src='images/i_p13.png' alt='' class='i_p13'>~
+.sr t ~%%i_p13.png%%~___|‾‾|___~
+
 The necessary travel of the valve is given to
 it by means of an eccentric, which is keyed
 upon or formed as part of the crank-shaft. The
@@ -579,7 +583,7 @@ little. Suppose that we have a big crank-shaft,
 and want to put a little crank in the middle of
 it (for this is what happens in the case of a
 steam-engine, the travel of the valve being such
-that a crank of the usual [** in-line illustration] form
+that a crank of the usual %%i_p13.png%% form
 would be disproportionate to the shaft of which
 it formed part—like fig. 7, perhaps). Now,
 that such a shaft would be extremely weak at
