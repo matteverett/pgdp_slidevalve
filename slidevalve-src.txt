@@ -2214,24 +2214,24 @@ a valve with lap and lead run in “full gear.”[6]
 
 The mark 4 is for a forward eccentric for
 a valve with lap and lead run with a link motion
-partially “linked up.”[7]
+partially “linked up.”[6]
 
 The mark 5 is for a valve with lap and lead
-run with the link motion in mid-gear.[8]
+run with the link motion in mid-gear.[5]
 
 The mark 6 is for a backward eccentric for
 .pm new-page p83
 a valve with lap and lead, run with a link motion
-partially linked-up.[9]
+partially linked-up.[6]
 
 The mark 7 is a backward eccentric for
-a valve with lap and lead run in “full gear.”[10]
+a valve with lap and lead run in “full gear.”[6]
 
 The mark 8 is for a backward eccentric set
-for lead, using a valve without any lap.[11]
+for lead, using a valve without any lap.[5]
 
 The mark 9 is for a backward eccentric for
-a valve without lap.[11]
+a valve without lap.[5]
 
 .fm rend=t
 .fn 5
@@ -2240,26 +2240,6 @@ Used with No. 1 travel-scale, fig. 1.
 
 .fn 6
 Used with No. 2 travel-scale, fig. 1.
-.fn-
-
-.fn 7
-Used with No. 2 travel-scale, fig. 1.
-.fn-
-
-.fn 8
-Used with No. 1 travel-scale, fig. 1.
-.fn-
-
-.fn 9
-Used with No. 2 travel-scale, fig. 1.
-.fn-
-
-.fn 10
-Used with No. 2 travel-scale, fig. 1.
-.fn-
-
-.fn 11
-Used with No. 1 travel-scale, fig. 1.
 .fn-
 
 .pm new-page p82
