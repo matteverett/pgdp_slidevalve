@@ -247,7 +247,8 @@ Lead; Advance affected thereby.\
 Compression</sc>,                          | #31#
 
 CHAPTER VI.
-<sc>Double-ported and Piston Valves</sc>,  | #43#
+<sc>Double-ported, Multiple Admission\
+and Piston Valves</sc>,                    | #43#
 
 CHAPTER VII.
 <sc>The Effect of Alterations to Valve and\
@@ -1020,10 +1021,10 @@ of the steam-port, is called the “outside or
 steam lap,” or more commonly the “lap” of
 the valve, that is, the distance <i>d a</i> (fig. 16).
 
-.il fn=i_p32.png w=480px ew=100%
+.il fn=i_p32.png alt='Slide valve with lengthened face, labeled with a, b, c, and d, moving to the left, that confines steam during a portion of the cycle' w=480px ew=100%
 .ca <sc>Fig. 15.</sc>
 
-.il fn=i_p33.png w=480px ew=100%
+.il fn=i_p33.png alt='Slide valve with lengthened face in center position with linear and angular advance' w=480px ew=100%
 .ca <sc>Fig. 16.</sc>
 
 The first thing noticeable is that this valve
