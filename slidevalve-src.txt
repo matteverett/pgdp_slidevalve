@@ -605,7 +605,7 @@ throw equals the half-travel of the valve, which
 in turn equals the amount of eccentricity of
 the sheave.
 
-.il fn=i_p14.png w=200px ew=40%
+.il fn=i_p14.png alt='Three cranks with progressively larger crank pins' w=200px ew=40%
 .ca <sc>Fig. 7.</sc>—Half-travel of Valve.
 
 .il fn=i_p15.png w=200px ew=40%
@@ -641,7 +641,7 @@ to represent a “valve-crank,” the equivalent
 of the eccentric by which the valve is to be
 operated.
 
-.il fn=i_p18.png w=480px ew=100%
+.il fn=i_p18.png alt='Simple slide valve where admission commences just when exhaust ceases and vice-versa' w=480px ew=100%
 .ca <sc>Fig. 10.</sc>
 
 Actual connection between that valve-crank
@@ -893,7 +893,7 @@ of the driving cranks of an English locomotive.
 The cylinders are supposed to be to
 the right of the wheels.)
 
-.il fn=i_p26.png w=480px ew=100%
+.il fn=i_p26.png alt='Two cranks, one with right hand crank leading and one with left hand crank leading' w=480px ew=100%
 .ca <sc>Fig. 12.</sc>—Order of Cranks.
 
 .pm new-page p27
@@ -947,7 +947,7 @@ at the end of its stroke, continuing to open
 the port as the piston comes to a rest, and is
 started on the return stroke.
 
-.il fn=i_p29.png w=480px ew=100%
+.il fn=i_p29.png alt='Slide valve with a small lead where exhaust and admission start slightly earlier than the previous example' w=480px ew=100%
 .ca <sc>Fig. 14.</sc>
 
 The amount to which the port is found to be
@@ -1370,21 +1370,21 @@ MULTIPLE ADMISSION VALVES.
 In America, the type of engine known as the
 automatic high-speed engine is very much
 used. These engines have a wide range of cut-off,
-from almost 0 to 1/2 stroke, and in order to
+from almost 0 to <abbr='one-half'>¹⁄₂</abbr> stroke, and in order to
 avoid a long valve and a long travel and to
 secure a quick admission and cut-off of the
 steam, recourse is had to multiple admission
 valves. These valves are so constructed that
 when one of them is moved from midposition, a
-distance equal to, say, 1/16 of an inch more than
+distance equal to, say, <abbr='one-sixteenth'>¹⁄₁₆</abbr> of an inch more than
 the steam lap, the width of the opening for the
-steam to pass through into the cylinder is 1/16
+steam to pass through into the cylinder is <abbr='one-sixteenth'>¹⁄₁₆</abbr>
 multiplied by the number of admissions of the
 valve. Thus, if the valve is a <i>double</i> admission
-valve, and it is moved 1/16 plus the steam
+valve, and it is moved <abbr='one-sixteenth'>¹⁄₁₆</abbr> plus the steam
 .pm new-page p48
 lap from midposition, the port is opened a distance
-equal to 2 × 1/16 = 1/8 of an inch.
+equal to 2 × <abbr='one-sixteenth'>¹⁄₁₆</abbr> = <abbr='one-eighth'>¹⁄₈</abbr> of an inch.
 Double admission valves are quite common
 and there are also a number of quadruple admission
 valves used. They are made as flat
@@ -1436,14 +1436,14 @@ the desired lead. The travel of the valve is
 equal to twice the sum of the steam lap and
 one-half the maximum opening of the port for
 .pm new-page p50
-steam, or 2 × (steam lap + 1/2 maximum opening
+steam, or 2 × (steam lap + <abbr='one-half'>¹⁄₂</abbr> maximum opening
 of port for steam).
 
 In the case of a quadruple admission valve,
 such as the Woodbury valve shown in fig. 28,
 the travel is equal to twice the sum of the steam
 lap and one-fourth the maximum opening of
-the port for steam, or 2 × (steam lap + 1/4
+the port for steam, or 2 × (steam lap + <abbr='one-fourth'>¹⁄₄</abbr>
 maximum opening of port for steam).
 
 .il fn=i_p50.png w=480px ew=100%
@@ -1690,13 +1690,13 @@ new mark or index-finger, and not the arrow,
 may be given that movement.
 
 If the valve had previously been properly
-set for lead, and the alteration shifted it 1/8 in.
+set for lead, and the alteration shifted it <abbr='one-eighth'>¹⁄₈</abbr> in.
 to the left, for example, we should find that
 the lead at the left-hand end would be diminished
 by that amount, and that subsequently,
 at cut-off, release, and compression, for both
 ends of the cylinder, the valve would always
-be found 1/8 in. to the left of its proper position.
+be found <abbr='one-eighth'>¹⁄₈</abbr> in. to the left of its proper position.
 The result would be, as shown in fig. 33, that:
 At left-hand of cylinder (see lines of dashes):—
 
