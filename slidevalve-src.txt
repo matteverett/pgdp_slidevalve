@@ -642,7 +642,7 @@ to represent a “valve-crank,” the equivalent
 of the eccentric by which the valve is to be
 operated.
 
-.il fn=i_p18.png alt='Simple slide valve where admission commences just when exhaust ceases and vice-versa' w=480px ew=100%
+.il fn=i_p18.png alt='A simple slide valve where admission commences just when exhaust ceases and vice-versa' w=480px ew=100%
 .ca <sc>Fig. 10.</sc>
 
 Actual connection between that valve-crank
@@ -948,7 +948,7 @@ at the end of its stroke, continuing to open
 the port as the piston comes to a rest, and is
 started on the return stroke.
 
-.il fn=i_p29.png alt='Slide valve with a small lead where exhaust and admission start slightly earlier than the previous example' w=480px ew=100%
+.il fn=i_p29.png alt='A slide valve with a small lead where exhaust and admission both commence slightly earlier than the previous example' w=480px ew=100%
 .ca <sc>Fig. 14.</sc>
 
 The amount to which the port is found to be
@@ -1021,10 +1021,10 @@ of the steam-port, is called the “outside or
 steam lap,” or more commonly the “lap” of
 the valve, that is, the distance <i>d a</i> (fig. 16).
 
-.il fn=i_p32.png alt='Slide valve with lengthened face, labeled with a, b, c, and d, moving to the left, that confines steam during a portion of the cycle' w=480px ew=100%
+.il fn=i_p32.png alt='A slide valve that overlaps the steam port while in the center position' w=480px ew=100%
 .ca <sc>Fig. 15.</sc>
 
-.il fn=i_p33.png alt='Slide valve with lengthened face in center position with linear and angular advance' w=480px ew=100%
+.il fn=i_p33.png alt='A slide valve with linear advance determined by the lap' w=480px ew=100%
 .ca <sc>Fig. 16.</sc>
 
 The first thing noticeable is that this valve
@@ -1126,10 +1126,10 @@ operation, of course, takes place at the opposite
 end of the cylinder when the piston arrives
 there.
 
-.il fn=i_p36.png w=480px ew=100%
+.il fn=i_p36.png alt='A slide valve moving to the left that is almost covering the steam port' w=480px ew=100%
 .ca <sc>Fig. 18.</sc>
 
-.il fn=i_p37.png w=480px ew=100%
+.il fn=i_p37.png alt='A slide valve moving to the right that is entirely covering the steam port' w=480px ew=100%
 .ca <sc>Fig. 19.</sc>
 .pm new-page p38
 
@@ -1138,7 +1138,7 @@ lap, lead, and a suitable eccentric is given in
 fig. 20, which should be compared carefully
 with figs. 10 and 14.
 
-.il fn=i_p38.png w=480px ew=100%
+.il fn=i_p38.png alt='A circular diagram showing admission, expansion, exhaust, and compression' w=480px ew=100%
 .ca <sc>Fig. 20.</sc>
 
 <i>Inside Lap</i>, exhaust lap, or “cover” as it is
@@ -1189,7 +1189,7 @@ the operations of admission and cut-off are
 unaffected, as they are performed by the outer
 edges of the valve; but
 
-.il fn=i_p40.png w=480px ew=100%
+.il fn=i_p40.png alt='A slide valve and circular diagram showing the impact of inside lead or lap' w=480px ew=100%
 .ca <sc>Fig. 21.</sc>
 
 .pm new-page p41
@@ -1246,7 +1246,7 @@ of the valve, neither does it necessitate any
 allowance in the setting of the eccentric. It
 simply provides a free exhaust.
 
-.il fn=i_p41.png w=480px ew=100%
+.il fn=i_p41.png alt='A slide valve with a wide exhaust port' w=480px ew=100%
 .ca <sc>Fig. 22.</sc>
 
 .pm chapter-break
@@ -1483,7 +1483,7 @@ the faces are formed by the two valve pistons,
 which work in a cylinder wherein steam and
 exhaust openings are made.
 
-.il fn=i_p52.png w=480px ew=100%
+.il fn=i_p52.png alt='A plain piston valve with a steam port on either side of the valve and a single large exhaust port in the middle' w=480px ew=100%
 .ca <sc>Fig. 29.</sc>
 
 Sometimes the steam-supply enters <i>between</i>
@@ -1498,7 +1498,7 @@ for the steam and exhaust edges have their
 positions reversed; and the lead will also be
 given by the inner edges.
 
-.il fn=i_p54.png w=480px ew=100%
+.il fn=i_p54.png alt='A piston valve with a steam port at the top and two exahust ports at the bottom' w=480px ew=100%
 .ca <sc>Fig. 30.</sc>
 
 .il fn=i_p55.png w=480px ew=100%
@@ -1659,7 +1659,7 @@ of the main crank which is altered</i>—which
 in effect is the same thing, and is, perhaps,
 easier to reason out.
 
-.il fn=i_p59.png w=480px ew=100%
+.il fn=i_p59.png alt='A circular diagram showing that advancing the cut-off by 0.14 results in advancing the exhaust by 0.10' w=480px ew=100%
 .ca <sc>Fig. 32.</sc>
 
 <i>Lengthening or Shortening the Eccentric
@@ -1748,7 +1748,7 @@ Cut-off takes place |                 |
 .ta-
 .if-
 
-.il fn=i_p62.png w=480px ew=100%
+.il fn=i_p62.png alt='A circular diagram showing how a one-eighh inch alteration to the left affects the cycle' w=480px ew=100%
 .ca <sc>Fig. 33.</sc>
 
 Compression commences earlier, for it occurs
@@ -1929,7 +1929,7 @@ exhaust and admission being shortened. The
 difference between working in full gear and
 linked up is shown by the diagram in fig. 34.
 
-.il fn=i_p68.png w=480px ew=100%
+.il fn=i_p68.png alt='A slide valve and circular diagram showing the difference between working in full gear and linked up' w=480px ew=100%
 .ca <sc>Fig. 34.</sc>
 
 Below are diagrams showing the effect of
@@ -1946,10 +1946,10 @@ lifting of the valve from its face, with the
 result that some compressed air and steam will
 go up the exhaust.
 
-.il fn=i_p69.png w=480px ew=100%
+.il fn=i_p69.png alt='A circular diagram showing the effect of putting the link motion in mid-gear' w=480px ew=100%
 .ca <sc>Fig. 35.</sc>
 
-.il fn=i_p70.png w=480px ew=100%
+.il fn=i_p70.png alt='A circular diagram showing the effect of putting the link motion in back-gear' w=480px ew=100%
 .ca <sc>Fig. 36.</sc>
 
 The set of diagrams forming fig. 37 is intended
@@ -1966,7 +1966,7 @@ forward stroke, those of the return stroke being
 read from right to left upon the lower portion
 of each diagram.
 
-.il fn=i_p71.png w=480px ew=100%
+.il fn=i_p71.png alt='A diagram showing the effect upon the distribution of steam of differently arranged valves and eccentrics' w=480px ew=100%
 .ca <sc>Fig. 37.</sc>
 
 .pm chapter-break
@@ -2106,7 +2106,7 @@ right-hand port being practically twice that
 which would be available were the Trick passage
 absent.
 
-.il fn=i_p78.png w=480px ew=100%
+.il fn=i_p78.png alt='A slide valve with an Allen valve that delivers an extra supply of steam' w=480px ew=100%
 .ca <sc>Fig. 40.</sc>
 
 The occurrence and duration of the operations
@@ -2261,8 +2261,6 @@ the throw-lines are produced to the edge.
 .ul
 .it Missing or obscured punctuation was silently corrected.
 .it Typographical errors were silently corrected.
-.it Inconsistent spelling and hyphenation were made consistent only when a\
-predominant form was found in this book.
 .if t
 .it Text in italics is enclosed by underscores (<i>italics</i>).
 .it Superscripts are written using a caret (^) followed by\
