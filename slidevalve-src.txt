@@ -223,43 +223,43 @@ CONTENTS.
 
 .pm section-break
 
-.ta h:40 rb:4 w=50%
+.ta h:40 rb:4 ew=100% w=50%
 <th>                                       |<sc>Page</sc>
-<sc>Introduction to American Edition</sc>, | #1#
-
+<sc>Introduction to American Edition</sc>, | #1:ch_intro#
+                                           |
 CHAPTER I.
-<sc>The Simple Slide</sc>,                 | #5#
-
+<sc>The Simple Slide</sc>,                 | #5:ch01#
+                                           |
 CHAPTER II.
 <sc>The Eccentric a Crank. Special Model\
-to give Quantitative Results</sc>,         | #13#
-
+to give Quantitative Results</sc>,         | #13:ch02#
+                                           |
 CHAPTER III.
-<sc>Advance of the Eccentric</sc>,         | #20#
-
+<sc>Advance of the Eccentric</sc>,         | #20:ch03#
+                                           |
 CHAPTER IV.
 <sc>Dead Centre. Order of Cranks. Cushioning\
-and Lead</sc>,                             | #24#
-
+and Lead</sc>,                             | #24:ch04#
+                                           |
 CHAPTER V.
 <sc>Expansion—Inside and Outside Lap and\
 Lead; Advance affected thereby.\
-Compression</sc>,                          | #31#
-
+Compression</sc>,                          | #31:ch05#
+                                           |
 CHAPTER VI.
 <sc>Double-ported, Multiple Admission\
-and Piston Valves</sc>,                    | #43#
-
+and Piston Valves</sc>,                    | #43:ch06#
+                                           |
 CHAPTER VII.
 <sc>The Effect of Alterations to Valve and\
-Eccentric</sc>,                            | #57#
-
+Eccentric</sc>,                            | #57:ch07#
+                                           |
 CHAPTER VIII.
-<sc>Note on Link Motions</sc>,             | #66#
-
+<sc>Note on Link Motions</sc>,             | #66:ch08#
+                                           |
 CHAPTER IX.
 <sc>Note on very early cut-off, and on Reversing\
-Gears in general</sc>,                     | #73#
+Gears in general</sc>,                     | #73:ch09#
 .ta-
 
 .pm new-page f08
@@ -270,7 +270,7 @@ Gears in general</sc>,                     | #73#
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch_intro
 INTRODUCTION TO AMERICAN EDITION.
 
 .pm section-break
@@ -401,7 +401,7 @@ THE SLIDE VALVE.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch01
 CHAPTER I.||<fs=85%>THE SIMPLE SLIDE.</fs>
 
 .pm section-break
@@ -564,7 +564,7 @@ to Steam and Exhaust-Ports.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch02
 CHAPTER II.||<fs=85%>THE ECCENTRIC A CRANK.\
 SPECIAL MODEL TO GIVE QUANTITATIVE RESULTS.</fs>
 
@@ -713,7 +713,7 @@ example.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch03
 CHAPTER III.||<fs=85%>ADVANCE OF THE ECCENTRIC.</fs>
 
 .pm section-break
@@ -844,7 +844,7 @@ seen from the circular diagram.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch04
 CHAPTER IV.||<fs=85%>DEAD CENTRE. ORDER OF CRANKS.\
 CUSHIONING AND LEAD.</fs>
 
@@ -992,7 +992,7 @@ been said, there is something more than
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch05
 CHAPTER V.||<fs=85%>EXPANSION—INSIDE AND OUTSIDE LAP AND LEAD;\
 ADVANCE AFFECTED THEREBY—COMPRESSION.</fs>
 
@@ -1176,7 +1176,7 @@ of the valve-face, and lengthens the
 exhaust at commencement and end by the
 amounts by which the operations of expansion
 and compression are shortened. The left-hand
-side of the valve in #fig. 21:i_p70# has inside lap, whilst
+side of the valve in #fig. 21:i_p40# has inside lap, whilst
 the right-hand side has inside lead, and the
 circular distribution-diagram below compares
 the distribution in the case of valves having
@@ -1184,7 +1184,7 @@ the distribution in the case of valves having
 inside lap and inside lead with the distribution
 for an ordinary valve such as was considered
 with reference to #fig. 20:i_p38#. By reference to the
-lower portion of #fig. 21:i_p70#, it may be seen that
+lower portion of #fig. 21:i_p40#, it may be seen that
 the operations of admission and cut-off are
 unaffected, as they are performed by the outer
 edges of the valve; but
@@ -1255,7 +1255,7 @@ simply provides a free exhaust.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch06
 CHAPTER VI.||<fs=85%>DOUBLE-PORTED, MULTIPLE ADMISSION,\
 AND PISTON VALVES.</fs>
 
@@ -1585,7 +1585,7 @@ balanced valve.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch07
 CHAPTER VII.||<fs=85%>THE EFFECT OF ALTERATIONS TO VALVE\
 AND ECCENTRIC.</fs>
 
@@ -1714,8 +1714,8 @@ Exhaust commences   | } | %%in%%as the valve moves
 .ta l:20 cm:1 hm:20 w=50%
 Lead decreases      | %%rowspan=3%%%%addclass=td-brace%%%%rbrace%% | %%rowspan=3%%earlier, these operations\
   taking place as the valve moves <i>towards</i> the left.
-Cut-off takes place |                 |
-Exhaust commences   |                 |
+Cut-off takes place | %%delete%%      | %%delete%%
+Exhaust commences   | %%delete%%      | %%delete%%
 .ta-
 .if-
 
@@ -1743,8 +1743,8 @@ Cut-off takes place | } | %%in%%valve is moving
 .ta l:20 cm:1 hm:20 w=50%
 Lead increases      | %%rowspan=3%%%%addclass=td-brace%%%%rbrace%% | %%rowspan=3%%later, because when effecting\
 them the valve is moving <i>from</i> the left.
-Exhaust commences   |                 |
-Cut-off takes place |                 |
+Exhaust commences   | %%delete%%      | %%delete%%
+Cut-off takes place | %%delete%%      | %%delete%%
 .ta-
 .if-
 
@@ -1848,7 +1848,7 @@ others operate special valves.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch08
 CHAPTER VIII.||<fs=85%>NOTE ON LINK MOTIONS.</fs>
 
 .pm section-break
@@ -1908,7 +1908,7 @@ to “mid-gear”), and we get in effect:—
 .if h
 .ta lm:24 cm:1 hm:34 w=50%
 <i>With link motion having “open” rods.</i>    | %%addclass=td-brace%%%%lbrace%% | A series of eccentrics of decreasing throw, but of increasing angular and linear advance.
-
+                                               |                                 |
 <i>With link motion having “crossed” rods.</i> | %%addclass=td-brace%%%%lbrace%% | A series of eccentrics of decreasing throw and of increasing angular, but decreasing linear advance; throw, therefore, decreasing more rapidly than in the case of the link motion with “open” rods.
 .ta-
 .if-
@@ -1975,7 +1975,7 @@ of each diagram.
 
 .pm chapter-break
 
-.h2 nobreak
+.h2 nobreak id=ch09
 CHAPTER IX.||<fs=85%>NOTE ON VERY EARLY CUT-OFF, AND ON\
 REVERSING GEARS IN GENERAL.</fs>
 
